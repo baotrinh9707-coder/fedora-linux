@@ -7,8 +7,8 @@ Bộ cấu hình mình dùng trên Fedora 44 KDE Plasma. Script cài SDDM, Kitty
 Trên Fedora, mở terminal bằng tài khoản thường:
 
 ```bash
-git clone https://github.com/USERNAME/fedora-setup.git
-cd fedora-setup
+git clone https://github.com/baotrinh9707-coder/fedora-linux.git
+cd fedora-linux
 bash install.sh
 ```
 
