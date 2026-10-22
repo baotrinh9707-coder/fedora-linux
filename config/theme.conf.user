@@ -1,0 +1,14 @@
+[General]
+# Replace this with Backgrounds/your-image.jpg after adding your own image.
+Background=Backgrounds/default
+DateTextColor=#D8EFFF
+DimBackground=0.35
+DimBackgroundColor=#081426
+HoverSystemButtonsIconsColor=#FFFFFF
+LoginButtonBackgroundColor=#18345C
+LoginFieldTextColor=#F2F7FF
+PasswordFieldTextColor=#F2F7FF
+SessionButtonTextColor=#B6E5FF
+SystemButtonsIconsColor=#B6E5FF
+TimeTextColor=#F2F7FF
+VirtualKeyboardButtonTextColor=#B6E5FF
